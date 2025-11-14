@@ -28,8 +28,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # Ajouter la clé API
+(Dans la racine du projet, copiez le fichier d’exemple pour créer le fichier de configuration réel puis ajoutez la clé entre les guillements "")
 
-Dans la racine du projet, ouvrez le fichier databot_config.json puis ajoutez la clé entre les guillements ""
+cp databot_config.example.json databot_config.json
 
 # Lancer l'application
 
