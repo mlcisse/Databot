@@ -1,0 +1,13 @@
+select_fields_with_conditions
+value_frequency
+line_chart
+histogram_chart
+bar_chart
+pie_chart
+scatter_chart
+area_chart
+boxplot_chart
+field_distinct
+most_frequent_value_in_field
+least_frequent_value_in_field
+value1_vs_value2

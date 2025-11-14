@@ -1,0 +1,16 @@
+                               precision    recall  f1-score   support
+
+                    bar_chart       0.50      1.00      0.67         1
+                   line_chart       0.67      1.00      0.80         2
+                    max_value       1.00      1.00      1.00         3
+                    min_value       1.00      0.67      0.80         3
+                    pie_chart       0.50      1.00      0.67         1
+select_fields_with_conditions       1.00      0.50      0.67        12
+                   show_table       0.50      1.00      0.67         1
+                      unknown       0.00      0.00      0.00         0
+             value1_vs_value2       0.00      0.00      0.00         1
+              value_frequency       1.00      1.00      1.00         2
+
+                     accuracy                           0.69        26
+                    macro avg       0.62      0.72      0.63        26
+                 weighted avg       0.88      0.69      0.73        26

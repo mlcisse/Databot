@@ -1,0 +1,28 @@
+text,gold_intent
+"What is the trend of rent prices from 2018 to 2024?",line_chart
+"Which apartment type has the highest average rent?",max_value
+"List the cities with rent higher than 1200 CAD",select_fields_with_conditions
+"In which city are the rents the cheapest?",min_value
+"Which year had the highest average rent?",max_value
+"Calculate the rent increase percentage per year",select_fields_with_conditions
+"What is the average rent for all cities in 2023?",select_fields_with_conditions
+"Show me the average rent by apartment type",select_fields_with_conditions
+"Display the total number of cities included in the dataset",value_frequency
+"Which city experienced the largest rent increase between 2020 and 2024?",select_fields_with_conditions
+"Compare the average rent of apartments and houses",value1_vs_value2
+"What is the minimum average rent across all years?",min_value
+"Which city has the highest rent in 2024?",max_value
+"Generate a bar chart showing rent by city",bar_chart
+"Display a line chart of rent evolution over the years",line_chart
+"List all apartment types with rent below 1000 CAD",select_fields_with_conditions
+"Find the average rent in Montreal over time",select_fields_with_conditions
+"Calculate the average rent growth rate between 2018 and 2024",select_fields_with_conditions
+"Show the dataset table of average rent per city",show_table
+"Which cities have an average rent between 1000 and 1500 CAD?",select_fields_with_conditions
+"Display a pie chart of rent distribution by city",pie_chart
+"Which city saw the fastest rent increase?",select_fields_with_conditions
+"How many cities have rent higher than the national average?",value_frequency
+"List the years where rent decreased compared to the previous year",select_fields_with_conditions
+"Which type of housing is the most affordable?",min_value
+"Show the city with the smallest average rent variation over years",select_fields_with_conditions
+
