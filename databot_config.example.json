@@ -1,3 +1,6 @@
 {
-  "OPENAI_API_KEY": "VOTRE_CLE_OPENAI_ICI"
+  "openai_api_key": "",
+  "openai_model_name": "gpt-4o-mini",
+  "nlp.language": "en",
+  "nlp.speech2text.hf.model": "openai/whisper-tiny"
 }
