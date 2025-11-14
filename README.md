@@ -15,11 +15,13 @@ Elle est basée sur **Streamlit**, **pandas**, et un **modèle d’intentions SV
 # Cloner le projet et accéder au dossier
 
 git clone "url_du_repo"
+
 cd databot
 
 # Créer et activer l'environnement virtuel (Linux/Ubuntu) 
 
 python3 -m venv .venv
+
 source .venv/bin/activate
 
 # Installer les dépendances dans l'environnement
