@@ -49,7 +49,7 @@ Aller dans l’onglet Playground
 - Vous pouvez poser toutes les questions concernant les données. 
 - Le Databot peut répondre sous forme de texte et générer des graphiques lorsque c’est pertinent.
 
-Voici quelques exemples de questions que de tests.
+Voici quelques exemples de questions de tests.
 
 - Display rent distribution across all cities
 - Which heating type has the highest total monthly rent? Show it with a bar chart
