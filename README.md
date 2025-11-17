@@ -62,6 +62,7 @@ Voici quelques exemples de questions que de tests.
 
 ### Évaluer le modèle d'intentions 
 (Ouvrez un second terminal et assurez-vous d’être toujours dans l’environnement, puis exécutez)
+
 Un dossier sera créé automatiquement à la racine du projet après l’exécution de la commande, et vous y retrouverez en détail l’ensemble des résultats.
 
 - python eval_intents.py --csv eval_intents.csv --outdir eval_results
