@@ -1,9 +1,9 @@
-# DataBot
+## DataBot
 
 Cette plateforme permet de créer des **bots intelligents** capables de répondre à des questions concernant une **source de données spécifique (CSV)**.
 Elle est basée sur **Streamlit**, **pandas**, et un **modèle d’intentions SVM** pour comprendre et exécuter des requêtes en langage naturel.
 	
-# Prérequis
+## Prérequis
 
 - **Python 3.11**
 - **Git** installé sur la machine 
