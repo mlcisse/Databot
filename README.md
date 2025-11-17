@@ -34,7 +34,7 @@ Elle est basée sur **Streamlit**, **pandas**, et un **modèle d’intentions SV
 
 ### Lancer l'application
 
-streamlit run main.py
+- streamlit run main.py
 
 L’interface du Databot s’ouvre automatiquement dans votre navigateur (sinon, ouvrez manuellement l’URL indiquée dans le terminal, par défaut http://localhost:8501).
 
@@ -49,7 +49,6 @@ Aller dans l’onglet Playground
 - Vous pouvez poser toutes les questions concernant les données. 
 - Le Databot peut répondre sous forme de texte et générer des graphiques lorsque c’est pertinent.
 
-
 Voici quelques exemples de questions que de tests.
 
 - Display rent distribution across all cities
@@ -61,9 +60,11 @@ Voici quelques exemples de questions que de tests.
 - What is the maximum rent?
 - Show rent distribution for different property types
 
-
 ### Évaluer le modèle d'intentions 
+(Ouvrez un second terminal et assurez-vous d’être toujours dans l’environnement, puis exécutez)
 
-python eval_intents.py --csv eval_intents.csv --outdir eval_results
+- python eval_intents.py --csv eval_intents.csv --outdir eval_results
+
+- Un dossier sera créé automatiquement à la racine du projet après l’exécution de la commande, et vous y retrouverez en détail l’ensemble des résultats.
 
 
